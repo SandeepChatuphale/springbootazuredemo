@@ -12,6 +12,6 @@ public class HelloRestController {
 	public String hello()
 	{
 		System.out.println("Request Received");
-		return "Hello From Server";
+		return "Hello From  v2";
 	}
 }
